@@ -22,11 +22,11 @@
 
 ### My profiles
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/azhandarov/)
-[![Header](https://img.shields.io/badge/Habr-yellowgreen)](https://career.habr.com/chosenonelru)
-[![Header](https://img.shields.io/badge/TestIO-blue)](https://tester.test.io/profile_pages/chosenonex1)
-[![Header](https://img.shields.io/badge/uTest-blue)](https://www.utest.com/profile/ChosenOne)
+[![Header](https://img.shields.io/badge/Habr-090909?style=for-the-badge)](https://career.habr.com/chosenonelru)
+[![Header](https://img.shields.io/badge/TestIO-090909?style=for-the-badge)](https://tester.test.io/profile_pages/chosenonex1)
+[![Header](https://img.shields.io/badge/uTest-090909?style=for-the-badge)](https://www.utest.com/profile/ChosenOne)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChosenOnelru&show_icons=true&theme=radical)
 
-![](https://komarev.com/ghpvc/?ChosenOnelru=your-github-username)
+![](https://komarev.com/ghpvc/?username=ChosenOnelru)
 
