@@ -1,8 +1,8 @@
 [![Header](https://github.com/ChosenOnelru/ChosenOnelru/blob/main/assets/Header.png)](https://www.linkedin.com/in/azhandarov/)
 
-## I'm a QA Engineer
+## I'm a Junior QA Engineer
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Link to my CV](https://docs.google.com/document/d/11xJq3VtOYc-NJ0PhLKbPxyJu1HJoEWfJBVwC-vNc8_E/edit?usp=sharing)
 
 ### Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -10,7 +10,7 @@
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
-![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![Header](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 
 ### Testing Documentation
