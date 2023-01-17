@@ -26,7 +26,7 @@
 [![Header](https://img.shields.io/badge/TestIO-090909?style=for-the-badge)](https://tester.test.io/profile_pages/chosenonex1)
 [![Header](https://img.shields.io/badge/uTest-090909?style=for-the-badge)](https://www.utest.com/profile/ChosenOne)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChosenOnelru&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ChosenOnelru&show_icons=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=ChosenOnelru)
 
