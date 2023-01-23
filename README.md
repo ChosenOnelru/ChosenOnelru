@@ -19,7 +19,7 @@
 - [Bug-Reports](https://github.com/ChosenOnelru/bug-reports)
 - [SQL Queries](https://github.com/ChosenOnelru/SQL)
 - [Postman Collections](https://github.com/ChosenOnelru/Postman)
-  [SoapUI project](https://github.com/ChosenOnelru/SoapUI.git)
+- [SoapUI project](https://github.com/ChosenOnelru/SoapUI.git)
 
 ### My profiles
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/azhandarov/)
