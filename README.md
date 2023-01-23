@@ -22,7 +22,7 @@
 
 ### My profiles
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/azhandarov/)
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=habr&logoColor=ffffff)](https://career.habr.com/chosenonelru)
+[![Header](https://img.shields.io/badge/habr-090909?style=for-the-badge&logo=habr&logoColor=ffffff)](https://career.habr.com/chosenonelru)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ChosenOnelru&show_icons=true&theme=radical)
